@@ -42,14 +42,14 @@ a:hover {
 }
 
 header {
-  background-color: #000000;
+  background-color: #f19dc4;
   width: 100%;
   padding: 0 20px;
   border-bottom: 8px solid var(--secondary);
 }
 
 #splash {
-  background-color: #000000;
+  background-color: #f19dc4;
   position: absolute;
   top: 0;
   bottom: 0;
